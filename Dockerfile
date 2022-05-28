@@ -1,4 +1,4 @@
-FROM kherge/ubuntu-server:21.04
+FROM kherge/ubuntu-server:22.04
 
 # Disable prompts in apt.
 ARG DEBIAN_FRONTEND=noninteractive
